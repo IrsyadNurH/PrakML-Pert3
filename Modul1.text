@@ -1,0 +1,38 @@
+1. Data Prevalensi Balita Stunting
+    Format: Excel (.xlsx)
+
+    Jenis data yang terdapat dalam dataset:
+
+    Data Nominal: Nama Kabupaten/Kota
+    Data Rasio: Presentase stunting
+    Data Interval: Tahun pengamatan
+
+2. Data Performa Siswa
+
+    Jenis data dalam dataset:
+        Data Nominal:
+            Jenis kelamin (L/P)
+            Sekolah (GP/MS)
+            Alamat (Perkotaan/Pedesaan)
+        Data Ordinal:
+            Tingkat pendidikan orang tua
+            Kualitas hubungan keluarga (1-5)
+        Data Interval:
+            Nilai ujian (G1, G2, G3)
+        Data Rasio:
+            Waktu belajar (jam)
+            Ketidakhadiran (jam)
+
+3. Data Kualitas Udara
+
+    Jenis data dalam dataset:
+        Data Nominal:
+            Nama lokasi
+            Nama parameter
+
+        Data Rasio:
+            Konsentrasi polutan
+            Suhu
+            
+        Data Interval:
+            Pengukuran tanggal dan waktu
